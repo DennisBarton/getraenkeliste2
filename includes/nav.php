@@ -1,4 +1,4 @@
-  <a href="abrechnung_anzeigen.php?date=today">Aktuelle Liste</a>
+  <a href="index.php">Aktuelle Liste</a>
   <a href="abrechnung_anzeigen.php?date=today&correct=1" style="color:red; font-weight:bold">Korrektur!</a>
   <a href="abrechnung_anzeigen.php">Offene Zahlungen</a>
   <a href="abrechnung_anzeigen.php?paid=1">Bezahlte Einträge</a>

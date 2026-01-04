@@ -14,7 +14,6 @@
 ?>
 <body>
   <header> 
-    Getränkeliste
   </header>  
   <nav>
     <?php
@@ -22,4 +21,3 @@
     ?>
   </nav>
   <article>
-    <!--<h2><?=$site_name?></h2>-->

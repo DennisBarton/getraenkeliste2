@@ -3,10 +3,12 @@ $today = date('d.m.Y');
 $now = date('H:i:s'); ?>
 </article>
 <footer>
-  <p>Seite abgerufen am <?=$today?> um <?=$now?> Uhr.</p>
+<!--  <p>Seite abgerufen am <?=$today?> um <?=$now?> Uhr.</p>
   <button onclick="refreshCSS()">
     Refresh CSS
   </button>
+-->
+Getr&auml;nkeliste by ddbits.de
 </footer>
 
 <script>
